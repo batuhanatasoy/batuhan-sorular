@@ -1,6 +1,6 @@
-# 🚀 [HACKATHON İSMİ] - Yarışma Reposu
+# 🚀 Biz Bize Hackathon - Yarışma Reposu
 
-Hoş geldiniz! Bu repository, **[HACKATHON İSMİ]** kapsamında sorulacak kodlama sorularını ve çözümlerinizi göndereceğiniz alanı barındırır.
+Hoş geldiniz! Bu repository, **Biz Bize Hackathon** kapsamında sorulacak kodlama sorularını ve çözümlerinizi göndereceğiniz alanı barındırır.
 
 ## ⚠️ Yarışma Formatı ve İşleyiş
 
