@@ -22,15 +22,15 @@ Kendi profilinizde oluşan repoyu bilgisayarınıza indirin (Terminal veya Git B
 
 ```bash
 # Kendi kullanıcı adınızı yazmayı unutmayın!
-git clone [https://github.com/KULLANICI_ADINIZ/Hackathon-2025.git](https://github.com/KULLANICI_ADINIZ/Hackathon-2025.git)
-cd Hackathon-2025
+git clone [https://github.com/KULLANICI_ADINIZ/Biz-Bize-Hackathon_2025.git](https://github.com/KULLANICI_ADINIZ/Biz-Bize-Hackathon_2025.git)
+cd Biz-Bize-Hackathon_2025
 ```
 ### 3. Upstream (Kaynak) Ekleme ⚠️ ÖNEMLİ ADIM
 Bizim ana repomuzdan yeni soruları çekebilmek için bu komutu girin:
 
 ```bash
 # Bu link organizasyonun ana repo linkidir, değiştirmeyin:
-git remote add upstream [https://github.com/](https://github.com/)[ORGANIZASYON_ADI]/Hackathon-2025.git
+git remote add upstream https://github.com/medipolmeditech/Biz-Bize-Hackathon_2025.git
 ```
 Kontrol için git remote -v yazdığınızda hem origin (sizin hesabınız) hem de upstream (bizim hesabımız) görünmelidir.
 
@@ -52,7 +52,7 @@ Soruyu çözdünüz ve teslim etmek istiyorsunuz. Sırasıyla şu adımları izl
 
 ```bash
 git add .
-git commit -m "Soru X Cozumu - Takim Ismi"
+git commit -m "Soru X Cozumu - Yarışmacı Ismi"
 git push origin main
 ```
 ### 2. Pull Request (PR) Açma
@@ -63,7 +63,7 @@ git push origin main
 
 3. "Open Pull Request" butonuna tıklayın.
 
-4. Başlık kısmına: [Takım Adı] Soru X Çözümü yazın.
+4. Başlık kısmına: [Yarışmacı Adı] Soru X Çözümü yazın.
 
 5. Create Pull Request butonuna basarak işlemi tamamlayın.
 
