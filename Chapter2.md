@@ -37,6 +37,18 @@ Print the number of possible different appetizer cut combinations.
 ```bash
 6
 ```
+
+### Explanation 1
+
+There are ssix possible shapes of the appetizers we can create;
+
+1 × 1
+1 × 2
+1 × 3
+1 × 4
+1 × 5
+2 × 2
+
 ---
 
 # Question 2
